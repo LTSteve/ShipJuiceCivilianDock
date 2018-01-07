@@ -172,7 +172,7 @@ namespace ShipJuice
 
             GUI.skin = HighLogic.Skin;
 
-            string name = "Edit Import/Export";
+            string name = "Edit Imports";
             string ver = "0.1b";
 
             string sit = Dock == null ? "no vessel" : Dock.vessel.situation.ToString();

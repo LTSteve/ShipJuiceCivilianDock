@@ -99,7 +99,7 @@ namespace ShipJuice
 
         [KSPEvent(active = false,
             externalToEVAOnly = false, guiActive = true, guiActiveEditor = false,
-            guiActiveUncommand = true, guiActiveUnfocused = false, guiName = "Edit Import/Export")]
+            guiActiveUncommand = true, guiActiveUnfocused = false, guiName = "Edit Imports")]
         public void EditImportExport()
         {
             FlipMenus(true);
