@@ -13,7 +13,7 @@ Planned Features:
 - A ground 'export' part that can be placed on celestial bodies other than Kerbin
 	- limitations on what can be shipped from bodies other than Kerbin based on available resources
 	- (possibly in another mod) limitations on what can be shipped from bodies other than Kerbin based on outpost happiness (or something)
-- A custom model for the civilian dock so you don't get it confused with a normal dock!
+- A custom model for the civilian dock so it doesn't look so terrible
 
 Installation:
 Just chuck the ShipJuice folder into KerbalSpaceProgram/GameData
